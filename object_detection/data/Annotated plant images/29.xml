@@ -1,0 +1,38 @@
+<annotation>
+	<folder>plant images</folder>
+	<filename>29.jpg</filename>
+	<path>/Users/arnoleninmalyala/Documents/Alekhya/Special_Topics/Project_Data/plant images/29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>852</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>138</ymin>
+			<xmax>236</xmax>
+			<ymax>843</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plants</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>3</ymin>
+			<xmax>640</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+</annotation>
